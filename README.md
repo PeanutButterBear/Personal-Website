@@ -1,2 +1,2 @@
-# Personal-Website
-A personal website to document skills and practice programming
+# personal-website
+A personal website to document my skills and practice programming
